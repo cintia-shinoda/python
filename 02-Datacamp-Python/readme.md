@@ -2,5 +2,5 @@
 
 |  | # | Course / Book |  |
 |:---:|:---:|:---|:---:|
-| &check; | 01 | Introduction to Python | [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/e9dfab951a328778b1b7342f5ef075b33f687830) |
-|  | 02 | Intermediate Python | ![0%](https://geps.dev/progress/0) |
+| &check; | 01 | Introduction to Python | [Certificate](https://github.com/cintia-shinoda/python/blob/main/02-Datacamp-Python/01-Introduction-Python/certificate.pdf) |
+|  | 02 | Intermediate Python | ![25%](https://geps.dev/progress/25) |
