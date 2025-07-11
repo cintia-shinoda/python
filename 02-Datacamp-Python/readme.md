@@ -8,3 +8,4 @@
 | &check; | 04 | [Joining Data with Pandas](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/04-Joining-Data-Pandas) | [Certificate](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/04-Joining-Data-Pandas/certificate.pdf) |
 | &check; | 05 | [Introduction to Data Visualization with Seaborn](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/05-Intro-Data-Viz-Seaborn) | [Certificate](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/05-Intro-Data-Viz-Seaborn/certificate.pdf) |
 |  | 06 | Introduction to Statistics in Python|  |
+|  | 07 | Skill Track: Building APIs in Python |  |
